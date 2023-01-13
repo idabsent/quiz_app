@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuazApp</string>
+    <string name="next_button_text">Next</string>
+    <string name="prev_button_text">Prev</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="prev_not_exist">Previous question don\'t exist</string>
+    <string name="correct_answers">You answered %d questions correctly</string>
+    <string name="correct_answer">Correct</string>
+    <string name="show_msg">Are you sure you want to do this?</string>
+    <string name="answer_button_text">Show answer</string>
+    <string name="uncorrected_answer">Uncorrected</string>
+    <string name="cheat_button_text">Cheat!</string>
+    <string name="api_lvl_text">API Level %d</string>
+</resources>
